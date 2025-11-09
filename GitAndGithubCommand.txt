@@ -1,0 +1,18 @@
+git config --global user.name "aaryan980-AV"
+git config --global user.name "aaryanvaishnav2005@gmail.com"
+
+mandatory command
+git init
+git remote and origin
+git remote add origin https://github.com/aaryan980-AV/GitDemo.git
+
+
+git pull origin main
+git status
+git add .
+git status
+git commit -m "commit Message"
+git push
+
+create a new branch
+git checkout -b "branchname"
